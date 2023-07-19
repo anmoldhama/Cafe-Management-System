@@ -1,0 +1,1 @@
+npm install --save jsonwebtoken nodemailer ->> this command is used to install jwt token package and nodemailer(which i don't know yet);
